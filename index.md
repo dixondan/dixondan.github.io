@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+{: #about} Hi! I am a postdoctoral researcher at the University of California, Davis. 
 
-I am a postdoctoral researcher at the University of California, Davis. 
+## About Me
 
 ## Research Interests
 
