@@ -1,10 +1,10 @@
 remote_theme: yaoyao-liu/minimal-light
 
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Dan Dixon
+position: Postdoc
+affiliation: UC Davis
+email: djdixon (at) ucdavis.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -17,8 +17,6 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
