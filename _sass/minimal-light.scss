@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  background-color: #fff;
+  padding:0px;
+  font: 16.0px/1.5 Roboto, sans-serif;
+  color:#000;
+  font-weight:400;
+  margin:0
+}
+
 .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
 .social-icons a{
@@ -104,8 +117,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
-    font-family: "Ubuntu Mono";
+    font-size: 16px;
 }
 
 .icon-button i{
@@ -150,11 +162,10 @@ darkonly {
 }
 
 education {
-    font-weight: 500;
-    font-size: 115%;
+    font-size: 100%;
   }
 papertitle {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 100%;
   }
 
@@ -207,7 +218,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0%;
     }
 
       .image.avatar:before {
@@ -215,9 +226,10 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        border-radius: 0%;
+        width: 80%;
+        height: 80%;
+        padding: 0px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -244,7 +256,7 @@ h2 {
   color:#043361;
   font-weight: 500;
   margin:2px 0px 15px;
-  font-size: 157%;
+  font-size: 120%;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -270,7 +282,7 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#043361;
   text-decoration:none;
 }
 
@@ -296,7 +308,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  position: relative;
+  width:1060px;
   margin:0 auto;
 }
 
@@ -432,7 +445,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:750px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
