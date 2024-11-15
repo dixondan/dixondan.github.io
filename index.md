@@ -1,4 +1,6 @@
+---
 layout: homepage
+---
 
 ## About Me
 I am a Postdoctoral Researcher at the University of California, Davis, where I study environmental science remote sensing and GIS. My research integrates [mention related fields or techniques, e.g., AI, remote sensing, and spatial modeling] to address [specific issues, e.g., climate change, data-driven decision-making].
