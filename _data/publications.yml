@@ -1,6 +1,11 @@
 main:
 
-
+- title: Canopy height estimation from PlanetScope time series with spatio-temporal deep learning
+    authors: DJ Dixon, Y Zhu, Y Jin
+    conference_short: RSE
+    conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2025.
+    image: ./assets/img/ca-height.png
+    
 - title: Satellite detection of canopy-scale tree mortality and survival from California wildfires with spatio-temporal deep learning
     authors: DJ Dixon, Y Zhu, CF Brown, Y Jin
     conference_short: RSE
@@ -8,6 +13,13 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0034425723003930
     image: ./assets/img/ca-mort.png
 
+- title: Satellite prediction of forest flowering phenology
+    authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
+    conference_short: RSE
+    conference: Science of the Total Environment<strong>(RSE)</strong>, 2023.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0048969723034514
+    image: ./assets/img/effects.png
+    
 - title: Satellite prediction of forest flowering phenology
     authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
     conference_short: RSE
