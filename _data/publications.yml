@@ -15,40 +15,40 @@ main:
     conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2025. 
     image: ./assets/img/ca-height.png
     
-- title: Satellite detection of canopy-scale tree mortality and survival from California wildfires with spatio-temporal deep learning
-  authors: DJ Dixon, Y Zhu, CF Brown, Y Jin
-  conference_short: RSE
-  conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2023.
-  pdf: https://www.sciencedirect.com/science/article/pii/S0034425723003930
-  image: ./assets/img/ca-mort.png
+# - title: Satellite detection of canopy-scale tree mortality and survival from California wildfires with spatio-temporal deep learning
+#   authors: DJ Dixon, Y Zhu, CF Brown, Y Jin
+#   conference_short: RSE
+#   conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2023.
+#   pdf: https://www.sciencedirect.com/science/article/pii/S0034425723003930
+#   image: ./assets/img/ca-mort.png
 
-- title: Fire reduces forest flowering phenology at the landscape-scale
-  authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli 
-  conference_short: STOTEN
-  conference: Science of the Total Environment<strong>(STOTEN)</strong>, 2023.
-  pdf: https://www.sciencedirect.com/science/article/pii/S0048969723034514
-  image: ./assets/img/effects.png
+# - title: Fire reduces forest flowering phenology at the landscape-scale
+#   authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli 
+#   conference_short: STOTEN
+#   conference: Science of the Total Environment<strong>(STOTEN)</strong>, 2023.
+#   pdf: https://www.sciencedirect.com/science/article/pii/S0048969723034514
+#   image: ./assets/img/effects.png
 
-- title: The cost of not acting: Delaying invasive grass management increases costs and threatens assets in a national park, northern Australia
-  authors: NA Rossiter-Rachor, VM Adams, CA Canham, DJ Dixon, TN Cameron, SA Setterfield
-  conference_short: JEM 
-  conference: Journal of Environmental Management<strong>(JEM)</strong>, 2023.
-  pdf: https://www.sciencedirect.com/science/article/pii/S0301479722023581
-  image: ./assets/img/nor-aus.png
+# - title: The cost of not acting: Delaying invasive grass management increases costs and threatens assets in a national park, northern Australia
+#   authors: NA Rossiter-Rachor, VM Adams, CA Canham, DJ Dixon, TN Cameron, SA Setterfield
+#   conference_short: JEM 
+#   conference: Journal of Environmental Management<strong>(JEM)</strong>, 2023.
+#   pdf: https://www.sciencedirect.com/science/article/pii/S0301479722023581
+#   image: ./assets/img/nor-aus.png
 
-- title: Regional-scale fire severity mapping of Eucalyptus forests with the Landsat archive
-  authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
-  conference_short: RSE
-  conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2022.
-  pdf: https://www.sciencedirect.com/science/article/pii/S0034425721005836
-  image: ./assets/img/sw-fire-sev.png
+# - title: Regional-scale fire severity mapping of Eucalyptus forests with the Landsat archive
+#   authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
+#   conference_short: RSE
+#   conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2022.
+#   pdf: https://www.sciencedirect.com/science/article/pii/S0034425721005836
+#   image: ./assets/img/sw-fire-sev.png
   
-- title: Satellite prediction of forest flowering phenology
-  authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli 
-  conference_short: RSE
-  conference: Remote Sensing of Environment<strong>(STOTEN)</strong>, 2021.
-  pdf: https://www.sciencedirect.com/science/article/pii/S0034425720305708
-  image: ./assets/img/flowering.png
+# - title: Satellite prediction of forest flowering phenology
+#   authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli 
+#   conference_short: RSE
+#   conference: Remote Sensing of Environment<strong>(STOTEN)</strong>, 2021.
+#   pdf: https://www.sciencedirect.com/science/article/pii/S0034425720305708
+#   image: ./assets/img/flowering.png
 
 
 
