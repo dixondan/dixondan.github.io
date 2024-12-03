@@ -22,8 +22,8 @@ main:
     
 - title: Satellite prediction of forest flowering phenology
     authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
-    conference_short: RSE
-    conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2021.
+    conference_short: STOTEN
+    conference: Remote Sensing of Environment<strong>(STOTEN)</strong>, 2021.
     pdf: https://www.sciencedirect.com/science/article/pii/S0034425720305708
     image: ./assets/img/flowering.png
 
