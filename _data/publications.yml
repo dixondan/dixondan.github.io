@@ -19,12 +19,12 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0048969723034514
     image: ./assets/img/effects.png
   
-  - title: The cost of not acting: Delaying invasive grass management increases costs and threatens assets in a national park, northern Australia
-    authors: NA Rossiter-Rachor, VM Adams, CA Canham, DJ Dixon, TN Cameron, SA Setterfield
-    conference_short: JEM 
-    conference: Journal of Environmental Management<strong>(JEM)</strong>, 2023.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0301479722023581
-    image: ./assets/img/nor-aus.png
+  # - title: The cost of not acting: Delaying invasive grass management increases costs and threatens assets in a national park, northern Australia
+  #   authors: NA Rossiter-Rachor, VM Adams, CA Canham, DJ Dixon, TN Cameron, SA Setterfield
+  #   conference_short: JEM 
+  #   conference: Journal of Environmental Management<strong>(JEM)</strong>, 2023.
+  #   pdf: https://www.sciencedirect.com/science/article/pii/S0301479722023581
+  #   image: ./assets/img/nor-aus.png
   
   # - title: Regional-scale fire severity mapping of Eucalyptus forests with the Landsat archive
   #   authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
