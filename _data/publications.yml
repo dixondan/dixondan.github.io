@@ -26,19 +26,19 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0301479722023581
     image: ./assets/img/nor-aus.png
   
-  # - title: Regional-scale fire severity mapping of Eucalyptus forests with the Landsat archive
-  #   authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
-  #   conference_short: RSE
-  #   conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2022.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S0034425721005836
-  #   image: ./assets/img/sw-fire-sev.png
+  - title: Regional-scale fire severity mapping of Eucalyptus forests with the Landsat archive
+    authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
+    conference_short: RSE
+    conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0034425721005836
+    image: ./assets/img/sw-fire-sev.png
     
-  # - title: Satellite prediction of forest flowering phenology
-  #   authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli 
-  #   conference_short: RSE
-  #   conference: Remote Sensing of Environment<strong>(STOTEN)</strong>, 2021.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S0034425720305708
-  #   image: ./assets/img/flowering.png
+  - title: Satellite prediction of forest flowering phenology
+    authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli 
+    conference_short: RSE
+    conference: Remote Sensing of Environment<strong>(STOTEN)</strong>, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0034425720305708
+    image: ./assets/img/flowering.png
 
 
 
