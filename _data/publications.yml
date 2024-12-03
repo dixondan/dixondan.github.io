@@ -4,7 +4,7 @@ main:
     authors: DJ Dixon, Y Zhu, Y Jin
     conference_short: RSE
     conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2025.
-    image: ./assets/img/ca-height.png
+    #image: ./assets/img/ca-height.png
     
 # - title: Satellite detection of canopy-scale tree mortality and survival from California wildfires with spatio-temporal deep learning
 #     authors: DJ Dixon, Y Zhu, CF Brown, Y Jin
