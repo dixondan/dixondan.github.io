@@ -7,11 +7,11 @@ Hi! I am a Postdoctoral Researcher at [University of California Davis](https://w
 
 Before joining UC Davis, I received my Ph.D. in [Geography](https://www.uwa.edu.au/schools/department-of-geography-and-planning) at the [University of Western Australia](https://www.uwa.edu.au) and M.S. in [Earth System Science and Policy](https://aero.und.edu/essp/index.html) from the [University of North Dakota](https://www.und.edu/).
 
-My research is primarily driven by quantitative and computational methods. My recent and current research projects are categorized into three primary areas:
+My research blends three main themes: 
 
-- **Machine learning**: My research is often driven by cutting-edge computational tools
-- **Forest characterization**: I investigate the
-- **Fire effects**: 
+- **Understanding changes to ecosystems**: 
+- **Addressing management challenges**:
+- **Advancing remote sensing applications**: 
 
 {: #publication}
 {% include_relative _includes/publications.md %}
