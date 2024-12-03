@@ -1,10 +1,10 @@
 main:
     
-  - title: Canopy height estimation from PlanetScope time series with spatio-temporal deep learning
-    authors: DJ Dixon, Y Zhu, Y Jin  
-    conference_short: RSE
-    conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2025. 
-    image: ./assets/img/ca-height.png
+  # - title: Canopy height estimation from PlanetScope time series with spatio-temporal deep learning
+  #   authors: DJ Dixon, Y Zhu, Y Jin  
+  #   conference_short: RSE
+  #   conference: Remote Sensing of Environment<strong>(RSE)</strong>, 2025. 
+  #   image: ./assets/img/ca-height.png
   
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
