@@ -8,6 +8,7 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept    
+  
   - title: Canopy height estimation from PlanetScope time series with spatio-temporal deep learning
     authors: DJ Dixon, Y Zhu, Y Jin  
     conference_short: RSE
