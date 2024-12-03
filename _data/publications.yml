@@ -24,7 +24,7 @@ main:
     conference_short: JEM 
     conference: Journal of Environmental Management<strong>(JEM)</strong>, 2023.
     pdf: https://www.sciencedirect.com/science/article/pii/S0301479722023581
-    #image: ./assets/img/nor-aus.png
+    image: ./assets/img/nor-aus.png
   
   - title: Regional-scale fire severity mapping of Eucalyptus forests with the Landsat archive
     authors: DJ Dixon, JN Callow, JMA Duncan, SA Setterfield, N Pauli
