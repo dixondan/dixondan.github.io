@@ -19,7 +19,7 @@ github_link: https://github.com/dixondan
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/foto-small-circle-1.png
+avatar: ./assets/img/foto-small-circle.png
 favicon: ./assets/img/favicon-custom2.png
 favicon_dark: ./assets/img/favicon-custom2.png
 
